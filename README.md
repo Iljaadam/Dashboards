@@ -52,5 +52,5 @@ Once the dashboard is running, you can interact with the various sections via th
 
 Link: https://datasets.imdbws.com/
 
-##Create the imdb_sampled.db file
+## Create the imdb_sampled.db file
 Please use the data process script(make sure to create a data/* repository with the archives)
